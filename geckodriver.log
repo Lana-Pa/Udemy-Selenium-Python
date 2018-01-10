@@ -1,0 +1,4 @@
+1513704776064	geckodriver	INFO	geckodriver 0.19.1
+1513704776097	geckodriver	INFO	Listening on 127.0.0.1:61268
+1513704778186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\lana\\AppData\\Local\\Temp\\rust_mozprofile.dSHQVmd10sUT"
+1513704780916	Marionette	INFO	Listening on port 2828
